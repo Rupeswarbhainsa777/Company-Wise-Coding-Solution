@@ -1,4 +1,4 @@
 package Talentpace;
 
-public class PalindromCheck {
+public class PalindromicCheck {
 }
